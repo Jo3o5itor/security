@@ -12,7 +12,7 @@ import com.Bcript.safety.services.UsuarioService;
 
 import jakarta.validation.Valid;
 
-@RequestMapping("usuario")
+@RequestMapping("usuario")   
 @RestController
 public class UsuarioController {
 
